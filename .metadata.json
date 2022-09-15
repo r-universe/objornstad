@@ -1,5 +1,9 @@
 [
   {
+    "package": "epimdr2",
+    "oncran": true
+  },
+  {
     "package": "ncf",
     "oncran": true
   }

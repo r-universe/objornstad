@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "epimdr2"]
+	path = epimdr2
+	url = https://github.com/objornstad/epimdr2
+	shallow = true
+	registered = true
 [submodule "ncf"]
 	path = ncf
 	url = https://github.com/objornstad/ncf
