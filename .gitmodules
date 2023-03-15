@@ -13,3 +13,8 @@
 	url = https://github.com/objornstad/ncf
 	shallow = true
 	registered = true
+[submodule "nlts"]
+	path = nlts
+	url = https://github.com/objornstad/nlts
+	shallow = true
+	registered = true

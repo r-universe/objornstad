@@ -6,5 +6,9 @@
   {
     "package": "ncf",
     "oncran": true
+  },
+  {
+    "package": "nlts",
+    "oncran": true
   }
 ]
