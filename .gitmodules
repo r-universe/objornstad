@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "epimdr"]
 	path = epimdr
 	url = https://github.com/cran/epimdr
-	shallow = true
-	registered = true
 [submodule "epimdr2"]
 	path = epimdr2
 	url = https://github.com/objornstad/epimdr2
-	shallow = true
-	registered = true
 [submodule "ncf"]
 	path = ncf
 	url = https://github.com/objornstad/ncf
-	shallow = true
-	registered = true
 [submodule "nlts"]
 	path = nlts
 	url = https://github.com/objornstad/nlts
-	shallow = true
-	registered = true
