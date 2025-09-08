@@ -5,9 +5,6 @@
 [submodule "epimdr"]
 	path = epimdr
 	url = https://github.com/cran/epimdr
-[submodule "epimdr2"]
-	path = epimdr2
-	url = https://github.com/objornstad/epimdr2
 [submodule "ncf"]
 	path = ncf
 	url = https://github.com/objornstad/ncf
